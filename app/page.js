@@ -4,11 +4,7 @@ import Feature from "@/components/Home/Feature";
 import BlogHome from "@/components/Home/BlogHome";
 export default function Home() {
   return (
-    <>
-      <MainSlider />
-      <About />
-      <Feature />
-      <BlogHome />
+    <div>amin</div>
     </>
   );
 }
